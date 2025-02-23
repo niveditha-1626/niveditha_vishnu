@@ -7,7 +7,7 @@ html {
 .red {
     width: 50%;
     height: auto;
-    margin: 50px auto; /* Centers the box horizontally */
+    margin: 40px auto; /* Centers the box horizontally */
     padding: 20px;
     background-color: #db349b;
     color: white;
@@ -25,4 +25,4 @@ body {
     align-items: center;
     height: 100vh;
     margin: 0;
-    background-color:
+    background-color:#1ea0b1;
